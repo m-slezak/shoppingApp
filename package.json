@@ -1,0 +1,21 @@
+{
+  "name": "shoppingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-slezak/shoppingApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-slezak/shoppingApp/issues"
+  },
+  "homepage": "https://github.com/m-slezak/shoppingApp#readme"
+}
